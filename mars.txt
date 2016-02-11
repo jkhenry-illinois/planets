@@ -1,2 +1,3 @@
 Whatever you want.  :-)
 [second_change]2nd change: Again you can write anything you want... [/second_change]
+[third_change] This is the third added line [/third_change]
